@@ -1,0 +1,11 @@
+.roditelj{
+    background-color: aqua;
+}
+
+.dete{
+    background-color: antiquewhite;
+}
+
+.dete1:hover{
+    background-color: blueviolet;
+}
